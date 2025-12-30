@@ -11,7 +11,7 @@ const socialLinks = [
   {
     name: 'Telegram',
     icon: Send,
-    url: 'http://t.me/PebsPow',
+    url: 'http://t.me/Peb522',
     color: '#0088cc',
   },
   {
@@ -58,7 +58,7 @@ export function Footer() {
             whileHover={{ scale: 1.05, boxShadow: '0 0 30px rgba(255, 255, 255, 0.3)' }}
             whileTap={{ scale: 0.95 }}
           >
-            <a href="http://t.me/PebsPow">Start a Conversation</a>
+            <a href="http://t.me/Peb522">Start a Conversation</a>
           </motion.button>
         </motion.div>
 
