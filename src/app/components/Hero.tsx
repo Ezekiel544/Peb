@@ -18,7 +18,7 @@ export function Hero() {
         }} />
       </div>
 
-      {/* Animated gradient orbs */}
+      {/* Animated gradient orbs added*/}
       <motion.div
         className="absolute top-1/4 left-1/4 w-96 h-96 bg-gray-600/30 rounded-full blur-3xl"
         animate={{
