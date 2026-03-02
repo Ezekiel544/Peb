@@ -278,7 +278,7 @@ export function VideoPortfolio() {
             <VideoCard key={video.id} video={video} index={index} isInView={isInView} />
           ))}
 
-          {/* CTA Card - "Your Project Here" */}
+          {/* CTA Card - "Your Project Here added" */}
           <motion.div
             initial={{ opacity: 0, x: -100, rotateY: -15 }}
             animate={isInView ? { opacity: 1, x: 0, rotateY: 0 } : { opacity: 0, x: -100, rotateY: -15 }}
