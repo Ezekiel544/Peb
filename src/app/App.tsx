@@ -11,7 +11,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Simulate loading time for preloader
+    // Simulate loading time for preloader added
     const timer = setTimeout(() => {
       setLoading(false);
     }, 3500);
