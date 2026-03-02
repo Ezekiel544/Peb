@@ -127,7 +127,7 @@ export function Hero() {
             </motion.p>
           </motion.div>
 
-          {/* Scroll indicator */}
+          {/* Scroll indicator added*/}
           <motion.button
             onClick={scrollToAbout}
             className="absolute bottom-12 left-1/2 transform -translate-x-1/2"
