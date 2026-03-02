@@ -119,7 +119,7 @@ function VideoCard({ video, index, isInView }: { video: typeof videos[0]; index:
         }}
         transition={{ duration: 0.3 }}
       >
-        {/* Video player */}
+        {/* Video player added*/}
         <div className="relative aspect-video overflow-hidden bg-gray-800">
           {/* Actual video element added*/}
           <video
