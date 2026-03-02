@@ -9,7 +9,7 @@ export function Hero() {
 
   return (
     <section className="relative min-h-screen flex items-center justify-center bg-black overflow-hidden">
-      {/* Animated background grid */}
+      {/* Animated background grid added*/}
       <div className="absolute inset-0 bg-gradient-to-b from-gray-900/20 to-black">
         <div className="absolute inset-0" style={{
           backgroundImage: `linear-gradient(rgba(156, 163, 175, 0.1) 1px, transparent 1px),
