@@ -128,7 +128,7 @@ export function Footer() {
                 })}
               </div>
 
-              {/* Email contact */}
+              {/* Email contact added*/}
               <motion.div
                 className="mt-8"
                 initial={{ opacity: 0 }}
