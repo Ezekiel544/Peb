@@ -7,7 +7,7 @@ import Videothree from './figma/pebthree.mp4';
 import Videofour from './figma/pebfour.mp4';
 import Videofive from './figma/pebfive.mp4';
 import Videosix from './figma/pebsix.mp4';
-// Placeholder data for the 5 videos
+// Placeholder data for the 5 videos here
 const videos = [
   {
     id: 1,
