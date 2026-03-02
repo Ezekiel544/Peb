@@ -15,7 +15,7 @@ const videos = [
     description: 'Full marketing campaign that drove 10K+ users in the first week',
     thumbnail: 'blockchain technology',
     category: 'Marketing',
-    // This would be the actual video URL
+    // This would be the actual video URL here
     videoUrl: Videoone,
   },
   {
