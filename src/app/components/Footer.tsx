@@ -83,7 +83,7 @@ export function Footer() {
               </p>
             </motion.div>
 
-            {/* Right side - Social links */}
+            {/* Right side - Social links added*/}
             <motion.div
               initial={{ opacity: 0, x: 50 }}
               whileInView={{ opacity: 1, x: 0 }}
