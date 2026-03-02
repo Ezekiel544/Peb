@@ -57,7 +57,7 @@ export function Hero() {
               whileHover={{ scale: 1.1, rotate: 5 }}
               transition={{ type: "spring", stiffness: 300 }}
             >
-              {/* Animated ring around profile */}
+              {/* Animated ring around profile added*/}
               <motion.div
                 className="absolute -inset-4 border-2 border-gray-600 rounded-full"
                 animate={{ rotate: 360 }}
