@@ -174,7 +174,7 @@ export function Footer() {
               </a>
             </motion.div>
 
-            {/* Scroll to top button */}
+            {/* Scroll to top button added*/}
             <motion.button
               onClick={scrollToTop}
               className="bg-gray-900 border-2 border-gray-800 hover:border-white p-3 rounded-full transition-all duration-300 group"
