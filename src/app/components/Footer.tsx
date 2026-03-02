@@ -62,7 +62,7 @@ export function Footer() {
           </motion.button>
         </motion.div>
 
-        {/* Main footer content */}
+        {/* Main footer content added*/}
         <div className="py-12 lg:py-16">
           <div className="grid md:grid-cols-2 gap-12 lg:gap-16 items-center">
             {/* Left side - Brand */}
