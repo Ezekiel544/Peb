@@ -35,7 +35,7 @@ export function Footer() {
 
   return (
     <footer className="relative bg-black border-t border-gray-900 overflow-hidden">
-      {/* Background gradient */}
+      {/* Background gradient added*/}
       <div className="absolute inset-0 bg-gradient-to-t from-gray-900/50 to-transparent" />
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
