@@ -290,7 +290,7 @@ export function VideoPortfolio() {
           </motion.div>
         </div>
 
-        {/* Stats section */}
+        {/* Stats section added*/}
         <motion.div
           initial={{ opacity: 0, y: 50 }}
           animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
