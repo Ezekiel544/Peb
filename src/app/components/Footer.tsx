@@ -189,7 +189,7 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Decorative element added*/}
+        {/* Decorative element add*/}
         <motion.div
           className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-1/2 h-px bg-gradient-to-r from-transparent via-white/20 to-transparent"
           initial={{ scaleX: 0 }}
